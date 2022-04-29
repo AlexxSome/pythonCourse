@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=swdcD6OPMlk
 nombre = "alex"
 edad=34
 print("Hola " + nombre + ' y tengo :' + str(edad) + ' años')
